@@ -26,5 +26,8 @@ Plongez-vous dans cet univers où j'ai exploré des domaines tels que la program
 
 - [**So_long**](https://github.com/nyuku/so-long) :
   <br>
-  Développement d'un jeu en 2D utilisant la bibliothèque graphique MinilibX, impliquant la création d'une carte avec des murs, des obstacles, des objets, et la gestion des déplacements,
-
+  Développement d'un jeu en 2D utilisant la bibliothèque graphique MinilibX, impliquant la création d'une carte avec des murs, des obstacles, des objets, et la gestion des déplacements.
+  
+- [**Pipex**](https://github.com/nyuku/pipex) :
+  <br>
+  Reproduire le comportement du "pipe"
