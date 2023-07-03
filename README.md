@@ -12,7 +12,7 @@ Plongez-vous dans cet univers où j'ai exploré des domaines tels que la program
 
 ## Contenu du dépôt
 
-- [**LIBFT**](lien_vers_le_projet_1) :
+- [**LIBFT**](https://github.com/nyuku/Libft_rank0) :
   <br>
   Création d'une bibliothèque de fonctions en langage C comprenant des manipulations de chaînes de caractères, de mémoire, de listes chaînées, de conversion, etc.
 
