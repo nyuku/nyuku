@@ -15,16 +15,16 @@ Plongez-vous dans cet univers où j'ai exploré des domaines tels que la program
 - [**LIBFT**](https://github.com/nyuku/Libft_rank0) :
   <br>
   Création d'une bibliothèque de fonctions en langage C comprenant des manipulations de chaînes de caractères, de mémoire, de listes chaînées, de conversion, etc.
-
-- [**Get Next Line (GNL)**](lien_vers_le_projet_2) :
+  
+- [**Printf**](https://github.com/nyuku/ft_printf) :
+  <br>
+  Recréation de la fonction printf en langage C pour afficher du texte formaté avec différentes conversions et options de formatage.
+  
+- [**Get Next Line (GNL)**](https://github.com/nyuku/get-next-line) :
   <br>
   Écriture d'une fonction pour lire une ligne d'un fichier ou de l'entrée standard et la renvoyer.
 
-- [**Printf**](lien_vers_le_projet_3) :
-  <br>
-  Recréation de la fonction printf en langage C pour afficher du texte formaté avec différentes conversions et options de formatage.
-
-- [**So_long**](lien_vers_le_projet_4) :
+- [**So_long**](https://github.com/nyuku/so-long) :
   <br>
   Développement d'un jeu en 2D utilisant la bibliothèque graphique MinilibX, impliquant la création d'une carte avec des murs, des obstacles, des objets, et la gestion des déplacements,
 
